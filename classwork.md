@@ -1,18 +1,6 @@
-\# Classwork Repository
+\## தமிழ் பகுதி
 
-
-
-This repository contains my classwork and practice exercises.
-
-
-
-\## Topics
-
-\- Git \& GitHub
-
-\- MERN Stack
-
-\- DevOps basics
+இந்த உரை தமிழ் கிளை (Tamil branch) இலிருந்து சேர்க்கப்பட்டது.
 
 
 
