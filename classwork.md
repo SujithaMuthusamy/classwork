@@ -1,18 +1,10 @@
-\# Classwork Repository
+\# Classwork
 
 
 
-This repository contains my classwork and practice exercises.
+\## हिंदी अनुभाग
 
-
-
-\## Topics
-
-\- Git \& GitHub
-
-\- MERN Stack
-
-\- DevOps basics
+यह पाठ हिंदी शाखा (Hindi branch) से जोड़ा गया है।
 
 
 
